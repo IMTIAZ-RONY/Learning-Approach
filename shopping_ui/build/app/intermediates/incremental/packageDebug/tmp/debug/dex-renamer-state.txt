@@ -1,0 +1,4 @@
+#Tue Jun 13 15:21:31 BDT 2023
+base.0=E\:\\flutter\\shopping_ui\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
