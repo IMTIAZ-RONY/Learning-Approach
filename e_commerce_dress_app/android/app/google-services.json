@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890147591009",
+    "project_id": "e-commerce-dressapp",
+    "storage_bucket": "e-commerce-dressapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890147591009:android:3db3596229e9d01b866b20",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_dress_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRaKPs_2QjY3Xfh-eObDjd0OGb0YORw1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
